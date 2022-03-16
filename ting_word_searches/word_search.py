@@ -19,5 +19,6 @@ def exists_word(word, instance):
             data_info.append(new_data_info)
     return data_info
 
+
 def search_by_word(word, instance):
     """Aqui irá sua implementação"""
